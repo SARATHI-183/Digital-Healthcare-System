@@ -2,6 +2,8 @@
 
 A digital healthcare app designed to [briefly describe the main purpose or features of your app].
 
+![Website - Digital Healthcare System](https://github.com/SARATHI-183/Digital-Healthcare-System/assets/142735146/b8f53280-e49d-42fd-aa70-6cd481798cd9)
+
 
 ## Introduction
 
